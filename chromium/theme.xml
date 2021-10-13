@@ -13,9 +13,10 @@
                    <pos>0.005 0.005</pos>
                    <maxSize>0.97 0.97</maxSize>
                    <path>./_inc/system.png</path>
-                   <zIndex>43</zIndex>            
+                   <zIndex>43</zIndex>
                 </image>
-	</view>	
+	</view>
+	
   	<view name="basic">
                 <image name="systemboxart" extra="true">
                    <origin>0 0</origin>
@@ -30,6 +31,6 @@
                    <maxSize>0.97 0.97</maxSize>
                    <path>./_inc/system.png</path>
                    <zIndex>43</zIndex>            
-                </image>                
-	</view>							    
+                </image>
+	</view>    	    
 </theme>
